@@ -58,7 +58,7 @@ class GardenGnome
   end
 end
 
-gnome1 = GardenGnome.new
+gnome1 = GardenGnome.new("sweet", "pink")
 gnome1.name =  "Walter the Worst"
 puts gnome1.name 
 gnome2= GardenGnome.new("Walter the Worst")

@@ -58,9 +58,14 @@ class GardenGnome
   end
 end
 
-gnome1 = GardenGnome.new("sweet", "pink")
+gnome1 = GardenGnome.new
 gnome1.name =  "Walter the Worst"
 puts gnome1.name 
-gnome2= GardenGnome.new("Walter the Worst")
-gnome3= GardenGnome.new("James the Jerk","3421")
-gnome4= GardenGnome.new("Alfred the Abhorrent","579")
+gnome2= GardenGnome.new
+gnome2.name="James the Jerk"
+gnome2.age="3421"
+puts gnome2.name.age
+gnome3= GardenGnome.new
+gnome3.name="Alfred the Abhorrent"
+gnome3.age="579"
+gnome3.gluten_allergy=TRUE

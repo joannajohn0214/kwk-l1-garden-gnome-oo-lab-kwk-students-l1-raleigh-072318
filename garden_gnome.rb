@@ -64,8 +64,11 @@ puts gnome1.name
 gnome2= GardenGnome.new
 gnome2.name="James the Jerk"
 gnome2.age="3421"
-puts gnome2.name.age
+puts gnome2.name
+puts gnome2.age
 gnome3= GardenGnome.new
 gnome3.name="Alfred the Abhorrent"
 gnome3.age="579"
 gnome3.gluten_allergy=TRUE
+puts gnome3.name
+puts gnome3.age

@@ -30,6 +30,6 @@ class GardenGnome
   end
 end
 
-def 
+gnome1 = GardenGnome
     
     

@@ -31,6 +31,6 @@ class GardenGnome
 end
 
 gnome1 = GardenGnome
-
+gnome2 = GardenGnome ()
     
     

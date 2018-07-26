@@ -30,7 +30,7 @@ class GardenGnome
   end
 end
 
-gnome1 = GardenGnome
-gnome2 = GardenGnome ("")
+gnome1 = GardenGnome.new
+
     
     

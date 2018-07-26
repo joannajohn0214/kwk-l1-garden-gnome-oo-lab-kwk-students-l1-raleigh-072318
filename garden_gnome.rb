@@ -31,6 +31,6 @@ class GardenGnome
 end
 
 gnome1 = GardenGnome.new
-
-    
+gnome2= GardenGnome.new.name("Walter the Worst")
+gnome3= GardenGnome.new.name.age("James the Jerk", )
     

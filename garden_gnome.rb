@@ -72,3 +72,4 @@ gnome3.age="579"
 gnome3.gluten_allergy=TRUE
 puts gnome3.name
 puts gnome3.age
+puts gnome3.gluten_allergy
